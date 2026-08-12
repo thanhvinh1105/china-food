@@ -339,6 +339,12 @@ html,body{height:100%;background:var(--cream);color:var(--ink);font-family:'Inte
         <div class="mode-label">Discover</div>
         <div class="mode-desc">Browse cards, save the ones you want</div>
       </div>
+      <div class="mode-card" data-mode="experience" onclick="goTo('experience')">
+        <div class="mode-card-accent"></div>
+        <span class="mode-icon">✨</span>
+        <div class="mode-label">Experiences</div>
+        <div class="mode-desc">Shopping, spas, sightseeing & more</div>
+      </div>
     </div>
   </div>
 </div>
@@ -356,7 +362,6 @@ html,body{height:100%;background:var(--cream);color:var(--ink);font-family:'Inte
       <span class="chip" data-cat="Chinese & Taiwanese">🥟 Chinese</span>
       <span class="chip" data-cat="Bakery & Desserts">🧁 Bakery</span>
       <span class="chip" data-cat="BBQ & Korean">🔥 BBQ</span>
-      <span class="chip" data-cat="Shopping">🛍️ Shopping</span>
       <span class="chip" data-cat="Western">🍔 Western</span>
       <span class="chip" data-cat="Japanese">🍣 Japanese</span>
       <span class="chip" data-cat="Bars & Cocktails">🍸 Bars</span>
@@ -511,7 +516,6 @@ const CATEGORIES = [
   { id:'Chinese & Taiwanese', icon:'🥟', label:'Chinese & Taiwanese' },
   { id:'Bakery & Desserts',icon:'🧁', label:'Bakery & Desserts' },
   { id:'BBQ & Korean',     icon:'🔥', label:'BBQ & Skewers' },
-  { id:'Shopping',         icon:'🛍️', label:'Shopping' },
   { id:'Japanese',         icon:'🍣', label:'Japanese' },
   { id:'Bars & Cocktails', icon:'🍸', label:'Bars & Cocktails' },
   { id:'Western',          icon:'🍔', label:'Western' },
@@ -525,7 +529,6 @@ function getCategory(cuisine){
   const c=cuisine.toLowerCase();
   if(/ramen|japanese|sushi|yakiniku|omakase|izakaya|robata/.test(c)) return 'Japanese';
   if(/korean|bbq/.test(c)) return 'BBQ & Korean';
-  if(/mall|shopping|plaza|store|boutique|flagship/.test(c)) return 'Shopping';
   if(/cafe|coffee|matcha|tea|milk tea|roastery|donut/.test(c)) return 'Cafes & Coffee';
   if(/bar|cocktail|lounge|jazz|wine|speakeasy/.test(c)) return 'Bars & Cocktails';
   if(/italian|pizza|french|western|american|burger|diner|deli|steak|brunch|mediterranean/.test(c)) return 'Western';
@@ -1256,10 +1259,14 @@ function searchSelect(idx){
 // ══════════════════════════════
 //  LOAD DATA
 // ══════════════════════════════
-fetch('places.json').then(r => r.json()).then(places => {
+Promise.all([
+  fetch('places.json').then(r => r.json()),
+  fetch('experiences.json').then(r => r.json()).catch(() => [])
+]).then(([places, experiences]) => {
   PLACES = places;
+  EXPERIENCES = experiences;
   document.getElementById('hero-count').innerHTML =
-    `<span>📍</span> ${places.length} places`;
+    `<span>📍</span> ${places.length} places · ${experiences.length} experiences`;
   initSearch();
 }).catch(() => {
   document.getElementById('hero-count').textContent = 'Could not load places.json';
