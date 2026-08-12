@@ -694,7 +694,7 @@ function showExpDetail(e){
       </div>
       <div class="my-rating-note">${myR ? `You rated this ${myR}/5` : 'Tap to rate after visiting'}</div>
     </div>
-    <a class="detail-maps" href="${e.url}" target="_blank" rel="noopener">Open in Google Maps ↗</a>
+    <a class="detail-maps" href="${e.url}" target="_blank" rel="noopener">Open in Amap ↗</a>
   `;
   document.getElementById('detail-modal').classList.add('open');
 }
@@ -854,7 +854,7 @@ function showSidebar(p){
       </div>
       <div class="my-rating-note">${myR?`You rated this ${myR}/5`:'Tap a star to rate after visiting'}</div>
     </div>
-    <a class="sb-maps-link" href="${p.url}" target="_blank" rel="noopener">Open in Google Maps ↗</a>
+    <a class="sb-maps-link" href="${p.url}" target="_blank" rel="noopener">Open in Amap ↗</a>
   `;
   document.getElementById('map-sidebar').classList.add('open');
 }
@@ -964,7 +964,7 @@ function showDetail(p){
       </div>
       <div class="my-rating-note" id="detail-rating-note">${myR?`You rated this ${myR}/5`:'Tap to rate after visiting'}</div>
     </div>
-    <a class="detail-maps" href="${p.url}" target="_blank" rel="noopener">Open in Google Maps ↗</a>
+    <a class="detail-maps" href="${p.url}" target="_blank" rel="noopener">Open in Amap ↗</a>
     ${isSaved?`<button onclick="discRemoveFromSaved('${escH(p.name)}')" style="display:block;width:100%;margin-top:10px;padding:11px;border-radius:10px;border:1.5px solid var(--border);background:#fff;color:var(--muted);font-weight:600;font-size:.85rem;cursor:pointer;font-family:'Inter',sans-serif;transition:all .15s" onmouseover="this.style.borderColor='var(--red)';this.style.color='var(--red)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--muted)'">Remove from saved list</button>`:''}
   `;
   document.getElementById('detail-modal').classList.add('open');
