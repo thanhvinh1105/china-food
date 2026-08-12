@@ -154,20 +154,6 @@
     "lng": 121.4325
   },
   {
-    "name": "WF Central",
-    "url": "https://www.google.com/maps/search/WF%20Central%20Beijing",
-    "cuisine": "Shopping Mall",
-    "district": "Beijing",
-    "rating": null,
-    "price": null,
-    "dishes": null,
-    "must_try": null,
-    "notes": "Imported from saved map pins. Location: verified. No rating/price data collected.",
-    "source": "China map export",
-    "lat": 39.9139,
-    "lng": 116.4123
-  },
-  {
     "name": "Qu Chashan (Shanghai HKRI Taikoo Hui Shop)",
     "url": "https://www.google.com/maps/search/Qu%20Chashan%20%28Shanghai%20HKRI%20Taikoo%20Hui%20Shop%29%20Jing%27an%2C%20Shanghai",
     "cuisine": "Chinese Tea Shop",
@@ -224,20 +210,6 @@
     "lng": 121.465
   },
   {
-    "name": "Financial Street Shopping Plaza",
-    "url": "https://www.google.com/maps/search/Financial%20Street%20Shopping%20Plaza%20Beijing",
-    "cuisine": "Shopping Mall",
-    "district": "Beijing",
-    "rating": null,
-    "price": null,
-    "dishes": null,
-    "must_try": null,
-    "notes": "Imported from saved map pins. Location: approx (Xicheng, Financial Street). No rating/price data collected.",
-    "source": "China map export",
-    "lat": 39.9083,
-    "lng": 116.3603
-  },
-  {
     "name": "Downstairs Suannai LOUXIA YOGURT (Shanghai Hongqiao International Airport Terminal 2 Shop)",
     "url": "https://www.google.com/maps/search/Downstairs%20Suannai%20LOUXIA%20YOGURT%20%28Shanghai%20Hongqiao%20International%20Airport%20Terminal%202%20Shop%29%20Changning%2C%20Shanghai",
     "cuisine": "Yogurt Dessert Shop",
@@ -250,20 +222,6 @@
     "source": "China map export",
     "lat": 31.1979,
     "lng": 121.3363
-  },
-  {
-    "name": "IAPM Mall",
-    "url": "https://www.google.com/maps/search/IAPM%20Mall%20Huangpu%2C%20Shanghai",
-    "cuisine": "Shopping Mall",
-    "district": "Huangpu, Shanghai",
-    "rating": null,
-    "price": null,
-    "dishes": null,
-    "must_try": null,
-    "notes": "Imported from saved map pins. Location: verified. No rating/price data collected.",
-    "source": "China map export",
-    "lat": 31.2174,
-    "lng": 121.4537
   },
   {
     "name": "Charlie Town Hongcha (Jing'an Kerry Centre South Area Shopping Mall Shop)",
@@ -306,20 +264,6 @@
     "source": "China map export",
     "lat": 31.2304,
     "lng": 121.4737
-  },
-  {
-    "name": "Labelhood House",
-    "url": "https://www.google.com/maps/search/Labelhood%20House%20Changning%2C%20Shanghai",
-    "cuisine": "Fashion Concept Store",
-    "district": "Changning, Shanghai",
-    "rating": null,
-    "price": null,
-    "dishes": null,
-    "must_try": null,
-    "notes": "Imported from saved map pins. Location: approx (Anfu/Yuyuan Rd area). No rating/price data collected.",
-    "source": "China map export",
-    "lat": 31.213,
-    "lng": 121.43
   },
   {
     "name": "PAIN CHAUD BAKERY Baiqiu (Jianguo West Road Branch)",
@@ -376,20 +320,6 @@
     "source": "China map export",
     "lat": 31.248,
     "lng": 121.49
-  },
-  {
-    "name": "BOLON Bolon (Shanghai Raffles City Branch)",
-    "url": "https://www.google.com/maps/search/BOLON%20Bolon%20%28Shanghai%20Raffles%20City%20Branch%29%20Huangpu%2C%20Shanghai",
-    "cuisine": "Eyewear Store",
-    "district": "Huangpu, Shanghai",
-    "rating": null,
-    "price": null,
-    "dishes": null,
-    "must_try": null,
-    "notes": "Imported from saved map pins. Location: verified (Raffles City). No rating/price data collected.",
-    "source": "China map export",
-    "lat": 31.2345,
-    "lng": 121.472
   },
   {
     "name": "Wudi Coffee Uddi Coffee",
@@ -644,20 +574,6 @@
     "lng": 121.44
   },
   {
-    "name": "BOSIDENG (Beijing Xidan Flagship Shop)",
-    "url": "https://www.google.com/maps/search/BOSIDENG%20%28Beijing%20Xidan%20Flagship%20Shop%29%20Beijing",
-    "cuisine": "Down Jacket Flagship Store",
-    "district": "Beijing",
-    "rating": null,
-    "price": null,
-    "dishes": null,
-    "must_try": null,
-    "notes": "Imported from saved map pins. Location: approx (Xidan). No rating/price data collected.",
-    "source": "China map export",
-    "lat": 39.9075,
-    "lng": 116.3736
-  },
-  {
     "name": "Libaixie Xiehuangmian (Xihu Branch)",
     "url": "https://www.google.com/maps/search/Libaixie%20Xiehuangmian%20%28Xihu%20Branch%29%20Hangzhou",
     "cuisine": "Chinese Noodle Restaurant",
@@ -670,20 +586,6 @@
     "source": "China map export",
     "lat": 30.259,
     "lng": 120.13
-  },
-  {
-    "name": "Li-Ning (Xidan Department Store Xidan North Street Branch North Area Branch)",
-    "url": "https://www.google.com/maps/search/Li-Ning%20%28Xidan%20Department%20Store%20Xidan%20North%20Street%20Branch%20North%20Area%20Branch%29%20Beijing",
-    "cuisine": "Sportswear Store",
-    "district": "Beijing",
-    "rating": null,
-    "price": null,
-    "dishes": null,
-    "must_try": null,
-    "notes": "Imported from saved map pins. Location: approx (Xidan). No rating/price data collected.",
-    "source": "China map export",
-    "lat": 39.9075,
-    "lng": 116.3736
   },
   {
     "name": "AMAM Bakery (New World Branch)",
