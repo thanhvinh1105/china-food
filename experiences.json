@@ -1,0 +1,93 @@
+[
+  {
+    "name": "WF Central",
+    "category": "Shopping",
+    "subcategory": "Shopping Mall",
+    "tagline": "",
+    "district": "Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Imported from saved map pins. Location: verified. No rating/price data collected.",
+    "url": "https://www.google.com/maps/search/WF%20Central%20Beijing",
+    "lat": 39.9139,
+    "lng": 116.4123
+  },
+  {
+    "name": "Financial Street Shopping Plaza",
+    "category": "Shopping",
+    "subcategory": "Shopping Mall",
+    "tagline": "",
+    "district": "Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Imported from saved map pins. Location: approx (Xicheng, Financial Street). No rating/price data collected.",
+    "url": "https://www.google.com/maps/search/Financial%20Street%20Shopping%20Plaza%20Beijing",
+    "lat": 39.9083,
+    "lng": 116.3603
+  },
+  {
+    "name": "IAPM Mall",
+    "category": "Shopping",
+    "subcategory": "Shopping Mall",
+    "tagline": "",
+    "district": "Huangpu, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Imported from saved map pins. Location: verified. No rating/price data collected.",
+    "url": "https://www.google.com/maps/search/IAPM%20Mall%20Huangpu%2C%20Shanghai",
+    "lat": 31.2174,
+    "lng": 121.4537
+  },
+  {
+    "name": "Labelhood House",
+    "category": "Shopping",
+    "subcategory": "Concept Store",
+    "tagline": "",
+    "district": "Changning, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Imported from saved map pins. Location: approx (Anfu/Yuyuan Rd area). No rating/price data collected.",
+    "url": "https://www.google.com/maps/search/Labelhood%20House%20Changning%2C%20Shanghai",
+    "lat": 31.213,
+    "lng": 121.43
+  },
+  {
+    "name": "BOLON Bolon (Shanghai Raffles City Branch)",
+    "category": "Shopping",
+    "subcategory": "Eyewear",
+    "tagline": "",
+    "district": "Huangpu, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Imported from saved map pins. Location: verified (Raffles City). No rating/price data collected.",
+    "url": "https://www.google.com/maps/search/BOLON%20Bolon%20%28Shanghai%20Raffles%20City%20Branch%29%20Huangpu%2C%20Shanghai",
+    "lat": 31.2345,
+    "lng": 121.472
+  },
+  {
+    "name": "BOSIDENG (Beijing Xidan Flagship Shop)",
+    "category": "Shopping",
+    "subcategory": "Flagship Store",
+    "tagline": "",
+    "district": "Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Imported from saved map pins. Location: approx (Xidan). No rating/price data collected.",
+    "url": "https://www.google.com/maps/search/BOSIDENG%20%28Beijing%20Xidan%20Flagship%20Shop%29%20Beijing",
+    "lat": 39.9075,
+    "lng": 116.3736
+  },
+  {
+    "name": "Li-Ning (Xidan Department Store Xidan North Street Branch North Area Branch)",
+    "category": "Shopping",
+    "subcategory": "Sportswear",
+    "tagline": "",
+    "district": "Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Imported from saved map pins. Location: approx (Xidan). No rating/price data collected.",
+    "url": "https://www.google.com/maps/search/Li-Ning%20%28Xidan%20Department%20Store%20Xidan%20North%20Street%20Branch%20North%20Area%20Branch%29%20Beijing",
+    "lat": 39.9075,
+    "lng": 116.3736
+  }
+]
