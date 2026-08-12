@@ -8,7 +8,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Xintiandi%20Shanghai%20Huangpu%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Xintiandi%20Shanghai&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2183,
     "lng": 121.47
   },
@@ -21,7 +21,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: unverified - exact branch/location unconfirmed.",
-    "url": "https://www.google.com/maps/search/Yatai%20Shenghui%20A.%20P.%20Plaza%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Yatai%20Shenghui%20A.%20P.%20Plaza&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2304,
     "lng": 121.4737
   },
@@ -34,7 +34,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Tian%27anmen%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Tian%27anmen&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9042,
     "lng": 116.3975
   },
@@ -47,7 +47,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Tianshan%20Tea%20City%20Changning%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Tianshan%20Tea%20City&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.217,
     "lng": 121.38
   },
@@ -60,7 +60,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Qipu%20Road%20Clothing%20Wholesale%20Market%20Hongkou%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Qipu%20Road%20Clothing%20Wholesale%20Market&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.254,
     "lng": 121.483
   },
@@ -73,7 +73,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/The%20Palace%20Museum%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=The%20Palace%20Museum&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9169,
     "lng": 116.3908
   },
@@ -86,7 +86,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Wujiang%20Road%20Jing%27an%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Wujiang%20Road&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2288,
     "lng": 121.4599
   },
@@ -99,7 +99,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Anfu%20Road%20Changning%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Anfu%20Road&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.213,
     "lng": 121.431
   },
@@ -112,7 +112,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/TX%20Huaihai%20Huangpu%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=TX%20Huaihai&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2196,
     "lng": 121.4649
   },
@@ -125,7 +125,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Nanjing%20Road%20Pedestrian%20Street%20Huangpu%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Nanjing%20Road%20Pedestrian%20Street&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2354,
     "lng": 121.4787
   },
@@ -138,7 +138,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Science%20%26%20Technology%20Museum%20of%20Shijingshan%20District%20of%20Beijing%20Shijingshan%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Science%20%26%20Technology%20Museum%20of%20Shijingshan%20District%20of%20Beijing&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9155,
     "lng": 116.195
   },
@@ -151,7 +151,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/National%20Museum%20of%20China%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=National%20Museum%20of%20China&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9042,
     "lng": 116.3975
   },
@@ -164,7 +164,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Capital%20Museum%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Capital%20Museum&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.905,
     "lng": 116.336
   },
@@ -177,7 +177,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Temple%20of%20Heaven%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Temple%20of%20Heaven&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.8822,
     "lng": 116.4066
   },
@@ -190,7 +190,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Jingshan%20Park%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Jingshan%20Park&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9236,
     "lng": 116.3906
   },
@@ -203,7 +203,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Fangjia%20Hutong%20Dongcheng%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Fangjia%20Hutong&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.937,
     "lng": 116.409
   },
@@ -216,7 +216,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Houhai%20Park%20Xicheng%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Houhai%20Park&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9411,
     "lng": 116.3789
   },
@@ -229,7 +229,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/798%20Art%20Center%20Chaoyang%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=798%20Art%20Center&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9891,
     "lng": 116.4879
   },
@@ -242,7 +242,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Sunworld%20Dynasty%20Hotel%20Beijing%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Sunworld%20Dynasty%20Hotel%20Beijing&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.909,
     "lng": 116.409
   },
@@ -255,7 +255,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Wangfujing%20Pedestrian%20Street%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Wangfujing%20Pedestrian%20Street&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9112,
     "lng": 116.4053
   },
@@ -268,7 +268,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified — NOTE: temporarily closed from Aug 11 2026 due to heavy rain, check status before visiting.",
-    "url": "https://www.google.com/maps/search/Mutianyu%20Great%20Wall%20Huairou%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Mutianyu%20Great%20Wall&city=%E5%8C%97%E4%BA%AC",
     "lat": 40.4262,
     "lng": 116.5558
   },
@@ -281,7 +281,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Qianmen%20Street%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Qianmen%20Street&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.8987,
     "lng": 116.3917
   },
@@ -294,7 +294,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/The%20Malls%20at%20Oriental%20Plaza%20Beijing%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=The%20Malls%20at%20Oriental%20Plaza%20Beijing&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9086,
     "lng": 116.4106
   },
@@ -307,7 +307,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Beijing%20Chaoyang%20Theater%20Chaoyang%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Beijing%20Chaoyang%20Theater&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.931,
     "lng": 116.449
   },
@@ -320,7 +320,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Beijing%20apm%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Beijing%20apm&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9137,
     "lng": 116.4057
   },
@@ -333,7 +333,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Guijie%20Street%20Dongcheng%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Guijie%20Street&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.937,
     "lng": 116.421
   },
@@ -346,7 +346,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Beijing%20apm%20%28North%20Gate%29%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Beijing%20apm%20%28North%20Gate%29&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9137,
     "lng": 116.4057
   },
@@ -359,7 +359,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Sanlitun%20Taikoo%20Li%20Chaoyang%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Sanlitun%20Taikoo%20Li&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9335,
     "lng": 116.4481
   },
@@ -372,7 +372,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Wangfujing%20Snack%20Street%20%28South%20Gate%29%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Wangfujing%20Snack%20Street%20%28South%20Gate%29&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.912,
     "lng": 116.4085
   },
@@ -385,7 +385,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/China%20World%20Shopping%20Mall%20Chaoyang%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=China%20World%20Shopping%20Mall&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9086,
     "lng": 116.4599
   },
@@ -398,7 +398,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Beijing%20SKP%20Chaoyang%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Beijing%20SKP&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9088,
     "lng": 116.4623
   },
@@ -411,7 +411,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Jing%20A%20Taproom%20Jingniang%20Bar%20%28Longfusi%20Branch%29%20Dongcheng%2C%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Jing%20A%20Taproom%20Jingniang%20Bar%20%28Longfusi%20Branch%29&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.927,
     "lng": 116.415
   },
@@ -424,7 +424,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Huaihai%20Middle%20Road%20Huangpu%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Huaihai%20Middle%20Road&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2219,
     "lng": 121.4597
   },
@@ -437,7 +437,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: unverified - branch unspecified.",
-    "url": "https://www.google.com/maps/search/Heizhua%20Perfume%20Shanghai%20Experience%20Space%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Heizhua%20Perfume%20Shanghai%20Experience%20Space&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2304,
     "lng": 121.4737
   },
@@ -450,7 +450,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: unverified - branch unspecified.",
-    "url": "https://www.google.com/maps/search/Duoyun%20College%20Flagship%20Store%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Duoyun%20College%20Flagship%20Store&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2304,
     "lng": 121.4737
   },
@@ -463,7 +463,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Huanghe%20Road%20Huangpu%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Huanghe%20Road&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.232,
     "lng": 121.472
   },
@@ -476,7 +476,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/North%20Bund%20Greenbelt%20Small%20Giant%20Egg%20Hongkou%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=North%20Bund%20Greenbelt%20Small%20Giant%20Egg&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.248,
     "lng": 121.49
   },
@@ -489,7 +489,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: unverified - branch unspecified.",
-    "url": "https://www.google.com/maps/search/Duoyuan%20Bookstore%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Duoyuan%20Bookstore&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2304,
     "lng": 121.4737
   },
@@ -502,7 +502,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Zhapu%20Road%20Bridge%20Hongkou%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Zhapu%20Road%20Bridge&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.246,
     "lng": 121.494
   },
@@ -515,7 +515,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: unverified - city/branch unconfirmed.",
-    "url": "https://www.google.com/maps/search/Buda%20Department%20Store%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Buda%20Department%20Store&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2304,
     "lng": 121.4737
   },
@@ -528,7 +528,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: unverified - district unconfirmed.",
-    "url": "https://www.google.com/maps/search/Shanghai%20Jiuxing%20Rosewood%20Home%20Furnishings%20Square%20%28Laiting%20North%20Road%29%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Shanghai%20Jiuxing%20Rosewood%20Home%20Furnishings%20Square%20%28Laiting%20North%20Road%29&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.15,
     "lng": 121.37
   },
@@ -541,7 +541,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx (Shanghai Botanical Garden).",
-    "url": "https://www.google.com/maps/search/Shanghai%20Greenhouse%20Garden%20Ticket%20Office%20Xuhui%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Shanghai%20Greenhouse%20Garden%20Ticket%20Office&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.155,
     "lng": 121.443
   },
@@ -554,7 +554,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Shanghai%20Science%20and%20Technology%20Museum%20Pudong%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Shanghai%20Science%20and%20Technology%20Museum&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2189,
     "lng": 121.539
   },
@@ -567,7 +567,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/Jing%27an%20Kerry%20Centre%20Jing%27an%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Jing%27an%20Kerry%20Centre&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2264,
     "lng": 121.4456
   },
@@ -580,7 +580,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/IAPM%20Mall%20Huangpu%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=IAPM%20Mall&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2174,
     "lng": 121.4537
   },
@@ -593,7 +593,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Labelhood%20House%20Changning%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=Labelhood%20House&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.213,
     "lng": 121.43
   },
@@ -606,7 +606,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified.",
-    "url": "https://www.google.com/maps/search/WF%20Central%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=WF%20Central&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9139,
     "lng": 116.4123
   },
@@ -619,7 +619,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: approx.",
-    "url": "https://www.google.com/maps/search/Financial%20Street%20Shopping%20Plaza%20Beijing",
+    "url": "https://uri.amap.com/search?keyword=Financial%20Street%20Shopping%20Plaza&city=%E5%8C%97%E4%BA%AC",
     "lat": 39.9083,
     "lng": 116.3603
   },
@@ -632,7 +632,7 @@
     "price": null,
     "rating": null,
     "notes": "Imported from saved map pins. Location: verified (Raffles City).",
-    "url": "https://www.google.com/maps/search/BOLON%20Bolon%20%28Shanghai%20Raffles%20City%20Branch%29%20Huangpu%2C%20Shanghai",
+    "url": "https://uri.amap.com/search?keyword=BOLON%20Bolon%20%28Shanghai%20Raffles%20City%20Branch%29&city=%E4%B8%8A%E6%B5%B7",
     "lat": 31.2345,
     "lng": 121.472
   }
