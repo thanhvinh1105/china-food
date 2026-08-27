@@ -1,5 +1,18 @@
 [
   {
+  "name": "Tian'an Qianshu Grand Crystal Code",
+  "category": "Shopping",
+  "subcategory": "Shopping Mall",
+  "tagline": "",
+  "district": "Putuo, Shanghai",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Changshou Road Residential District, Moganshan Road No.600 (near Jiangning Road Subway Station Exit 1, 460m pedestrian walk). Coordinates approximate — based on street address, not a verified geocode.",
+  "url": "https://surl.amap.com/hRkE4E513b4x",
+  "lat": 31.2495,
+  "lng": 121.4485
+},
+  {
     "name": "Xintiandi Shanghai",
     "category": "Activities & Culture",
     "subcategory": "Historic Shopping & Dining District",
