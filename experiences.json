@@ -1,5 +1,18 @@
 [
   {
+  "name": "Red-brick Art Gallery",
+  "category": "Activities & Culture",
+  "subcategory": "Art Museum",
+  "tagline": "",
+  "district": "Chaoyang, Beijing",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Hegezhuang Village, Cuigezhuang Township, near Shunbai Road / Maquanying West Road, Chaoyang, Beijing. Coordinates approximate — out in the northeastern art-district cluster near Sunhe, further from central Beijing than most other saved spots.",
+  "url": "https://surl.amap.com/4MkEIOdHP60k",
+  "lat": 40.0075,
+  "lng": 116.499
+},
+  {
   "name": "National Art Museum of China",
   "category": "Activities & Culture",
   "subcategory": "Museum",
