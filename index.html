@@ -1214,24 +1214,44 @@ function initSearch(){
     const q = input.value.trim().toLowerCase();
     if(!q){ results.classList.remove('open'); return; }
 
-    const matches = PLACES.filter(p => {
+    const placeMatches = PLACES.filter(p => {
       const hay = [p.name, p.cuisine, p.district, p.dishes, p.notes].join(' ').toLowerCase();
       return hay.includes(q);
-    }).slice(0, 10);
+    }).map(p => ({ item: p, kind: 'place' }));
+
+    const expMatches = EXPERIENCES.filter(e => {
+      const hay = [e.name, e.category, e.subcategory, e.district, e.tagline, e.notes].join(' ').toLowerCase();
+      return hay.includes(q);
+    }).map(e => ({ item: e, kind: 'exp' }));
+
+    const matches = placeMatches.concat(expMatches).slice(0, 10);
 
     if(!matches.length){
       results.innerHTML = '<div class="sr-empty">No places found</div>';
     } else {
-      results.innerHTML = matches.map(p => {
-        const cat=CATEGORIES.find(c=>c.id===getCategory(p.cuisine));
-        return `
-        <div class="sr-item" onclick="searchSelect(${PLACES.indexOf(p)})">
-          <div class="sr-dot ${p.must_try==='Yes'?'must':'normal'}"></div>
-          <div>
-            <div class="sr-name">${p.name}</div>
-            <div class="sr-meta">${p.tagline || (p.cuisine||'') + (p.district?' · '+p.district.split(',')[0]:'') + (p.price?' · '+p.price:'')}</div>
-          </div>
-        </div>`}).join('');
+      results.innerHTML = matches.map(({item, kind}) => {
+        if(kind === 'place'){
+          const p = item;
+          return `
+          <div class="sr-item" onclick="searchSelect('place', ${PLACES.indexOf(p)})">
+            <div class="sr-dot ${p.must_try==='Yes'?'must':'normal'}"></div>
+            <div>
+              <div class="sr-name">${p.name}</div>
+              <div class="sr-meta">${p.tagline || (p.cuisine||'') + (p.district?' · '+p.district.split(',')[0]:'') + (p.price?' · '+p.price:'')}</div>
+            </div>
+          </div>`;
+        } else {
+          const e = item;
+          return `
+          <div class="sr-item" onclick="searchSelect('exp', ${EXPERIENCES.indexOf(e)})">
+            <div class="sr-dot normal"></div>
+            <div>
+              <div class="sr-name">${e.name}</div>
+              <div class="sr-meta">${e.tagline || (e.subcategory||e.category||'') + (e.district?' · '+e.district.split(',')[0]:'')}</div>
+            </div>
+          </div>`;
+        }
+      }).join('');
     }
     results.classList.add('open');
   });
@@ -1248,12 +1268,18 @@ function initSearch(){
   });
 }
 
-function searchSelect(idx){
-  const p = PLACES[idx];
-  if(!p) return;
+function searchSelect(kind, idx){
   document.getElementById('landing-search').value = '';
   document.getElementById('search-results').classList.remove('open');
-  showDetail(p);
+  if(kind === 'exp'){
+    const e = EXPERIENCES[idx];
+    if(!e) return;
+    showExpDetail(e);
+  } else {
+    const p = PLACES[idx];
+    if(!p) return;
+    showDetail(p);
+  }
 }
 
 // ══════════════════════════════
