@@ -1,5 +1,18 @@
 [
   {
+  "name": "National Art Museum of China",
+  "category": "Activities & Culture",
+  "subcategory": "Museum",
+  "tagline": "",
+  "district": "Dongcheng, Beijing",
+  "price": null,
+  "rating": null,
+  "notes": "Address: No.1, Wusi Street, Dongcheng, Beijing.",
+  "url": "https://surl.amap.com/3rP380Cw7ka",
+  "lat": 39.9214,
+  "lng": 116.4106
+},
+  {
   "name": "Tian'an Qianshu Grand Crystal Code",
   "category": "Shopping",
   "subcategory": "Shopping Mall",
