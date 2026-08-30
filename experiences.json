@@ -1,8 +1,21 @@
 [
   {
+  "name": "Wangfujing Li-Ning",
+  "category": "Shopping",
+  "subcategory": "Sportswear",
+  "tagline": "",
+  "district": "Dongcheng, Beijing",
+  "price": null,
+  "rating": null,
+  "notes": "Address: No.253, Wangfujing Street, Beijing Department Store, 1F (near North Gate 3).",
+  "url": "https://surl.amap.com/bcmBQ3g1pbC7",
+  "lat": 39.9130,
+  "lng": 116.4090
+},
+  {
   "name": "Beijing Wangfujing Yintai in88",
   "category": "Shopping",
-  "subcategory": "Shopping Mall",
+  "subcategory": "Shopping Mall, Bosideng",
   "tagline": "",
   "district": "Dongcheng, Beijing",
   "price": null,
