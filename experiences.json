@@ -1,5 +1,18 @@
 [
   {
+  "name": "Beijing Wangfujing Yintai in88",
+  "category": "Shopping",
+  "subcategory": "Shopping Mall",
+  "tagline": "",
+  "district": "Dongcheng, Beijing",
+  "price": null,
+  "rating": null,
+  "notes": "Address: No.88, Wangfujing Street, Dongcheng, Beijing.",
+  "url": "https://surl.amap.com/jn8ovm6116wl",
+  "lat": 39.9128,
+  "lng": 116.4098
+},
+  {
   "name": "PANE Flagship Store (Yongyuan Road Branch)",
   "category": "Shopping",
   "subcategory": "Shoe Store",
