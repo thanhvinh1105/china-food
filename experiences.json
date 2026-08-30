@@ -1,5 +1,18 @@
 [
   {
+  "name": "PANE Flagship Store (Yongyuan Road Branch)",
+  "category": "Shopping",
+  "subcategory": "Shoe Store",
+  "tagline": "",
+  "district": "Jing'an, Shanghai",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Yongyuan Road No.22 (near Jing'an Temple Subway Station Exit 13A, 450m pedestrian walk).",
+  "url": "https://surl.amap.com/2Gpa3UnLf6WT",
+  "lat": 31.221,
+  "lng": 121.443
+},
+  {
     "name": "Jade Buddha Temple",
     "category": "Activities & Culture",
     "subcategory": "Temple",
