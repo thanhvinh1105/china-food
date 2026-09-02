@@ -1,5 +1,18 @@
 [
   {
+  "name": "Jingdong Mall (Beijing S. 3rd Ring Road Branch)",
+  "category": "Shopping",
+  "subcategory": "Home Appliances",
+  "tagline": "",
+  "district": "Fengtai, Beijing",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Southwest of Fenghai North Street and Dahongmen Road intersection, 100m, Fengtai, Beijing.",
+  "url": "https://surl.amap.com/13HkT9Y1lbLT",
+  "lat": 39.8320,
+  "lng": 116.3920
+},
+  {
   "name": "Jingdong Mall Shanghai Qibao Branch",
   "category": "Shopping",
   "subcategory": "Household Appliances and Digital Products",
