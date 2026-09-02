@@ -1,5 +1,18 @@
 [
   {
+  "name": "Shanghai Qibao Mall",
+  "category": "Shopping",
+  "subcategory": "Shopping Mall",
+  "tagline": "",
+  "district": "Minhang, Shanghai",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Qibaozhen, Qixin Road No.3011, Minhang District, Shanghai (next to Qibao Metro Station Exit 5).",
+  "url": "https://surl.amap.com/sYbf861A2ua",
+  "lat": 31.155768,
+  "lng": 121.347453
+},
+  {
   "name": "Jingdong Mall (Nanjing Daming Road Branch)",
   "category": "Shopping",
   "subcategory": "Home Appliances",
