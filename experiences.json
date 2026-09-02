@@ -1,5 +1,18 @@
 [
   {
+  "name": "Jingdong Mall Shanghai Qibao Branch",
+  "category": "Shopping",
+  "subcategory": "Household Appliances and Digital Products",
+  "tagline": "",
+  "district": "Minhang, Shanghai",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Caobao Road No.3459, Minhang District, Shanghai.",
+  "url": "https://surl.amap.com/uobVnY1agam",
+  "lat": null,
+  "lng": null
+},
+  {
   "name": "Shanghai Qibao Mall",
   "category": "Shopping",
   "subcategory": "Shopping Mall",
