@@ -1,5 +1,18 @@
 [
   {
+  "name": "Jingdong Mall (Nanjing Daming Road Branch)",
+  "category": "Shopping",
+  "subcategory": "Home Appliances",
+  "tagline": "",
+  "district": "Hongkou, Shanghai",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Daming Road No.288, Hongkou, Shanghai.",
+  "url": "https://surl.amap.com/r922mu9d1A",
+  "lat": 31.2470,
+  "lng": 121.4870
+},
+  {
   "name": "Wangfujing Li-Ning",
   "category": "Shopping",
   "subcategory": "Sportswear",
