@@ -1,5 +1,46 @@
 [
-  
+  {
+  "name": "Bianjie Danbing (Shaanxi South Road Branch)",
+  "url": "https://surl.amap.com/8U3Wzmq1eeqy",
+  "cuisine": "Snacks and Fast Food",
+  "district": "Xuhui, Shanghai",
+  "rating": null,
+  "price": "$",
+  "dishes": null,
+  "must_try": null,
+  "notes": "Address: Shaanxi South Road No.162 (near Shaanxi South Road Subway Station Exit 10, 450m pedestrian walk). Approx ¥19/person.",
+  "source": "Amap link",
+  "lat": 31.2140,
+  "lng": 121.4530
+},
+{
+  "name": "Yunhe Noodle Restaurant (Changle Road Branch)",
+  "url": "https://surl.amap.com/4rVpjlA1z3mh",
+  "cuisine": "Snacks and Fast Food",
+  "district": "Jing'an, Shanghai",
+  "rating": null,
+  "price": "$$$",
+  "dishes": null,
+  "must_try": null,
+  "notes": "Address: Changle Road No.344 (near Huaihai Middle Road Subway Station Exit 3, 140m pedestrian walk). Approx ¥268/person. NOTE: possible duplicate of existing 'Yunhe Noodle Restaurant (Changle Road Branch)' already in places.json — this entry has a verified address/price, consider replacing the old one rather than adding both.",
+  "source": "Amap link",
+  "lat": 31.2160,
+  "lng": 121.4520
+},
+{
+  "name": "Xiaotaoyuan (Zhonghua Road Branch)",
+  "url": "https://surl.amap.com/z1cc6y13emi",
+  "cuisine": "Snacks and Fast Food",
+  "district": "Huangpu, Shanghai",
+  "rating": null,
+  "price": "$",
+  "dishes": null,
+  "must_try": null,
+  "notes": "Address: Zhonghua Road No.1341 (near Laoximen Subway Station Exit 7, 320m pedestrian walk). Approx ¥23/person.",
+  "source": "Amap link",
+  "lat": 31.2220,
+  "lng": 121.4870
+},
   {
   "name": "Shengyongxing (The Bund Branch)",
   "url": "https://surl.amap.com/2Jsx44vz167EO",
