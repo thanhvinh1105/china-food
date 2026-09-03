@@ -1,5 +1,44 @@
 [
   {
+  "name": "Yandai Byway",
+  "category": "Activities & Culture",
+  "subcategory": "Characteristic Commercial Street",
+  "tagline": "",
+  "district": "Xicheng, Beijing",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Di'anmen Outer Street No.48 (near Shichahai Subway Station Northwest Exit A2, 130m pedestrian walk).",
+  "url": "https://surl.amap.com/83HWWae143Mp",
+  "lat": 39.9370,
+  "lng": 116.3860
+},
+{
+  "name": "South Luogu Lane",
+  "category": "Activities & Culture",
+  "subcategory": "Cultural Relics and Historic Sites",
+  "tagline": "",
+  "district": "Dongcheng, Beijing",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Jiaodaokou Residential District South Street (near South Luogu Lane Subway Station Exit, Northwest side).",
+  "url": "https://surl.amap.com/4wF9o1yJg8SG",
+  "lat": 39.9370,
+  "lng": 116.4030
+},
+{
+  "name": "Yuyuan Shopping Center (Yuyuan Road Shop)",
+  "category": "Shopping",
+  "subcategory": "Shopping Mall",
+  "tagline": "",
+  "district": "Huangpu, Shanghai",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Yuyuan Old Street No.84, Huangpu, Shanghai.",
+  "url": "https://surl.amap.com/gPb3yCit03N",
+  "lat": 31.2270,
+  "lng": 121.4920
+},
+  {
   "name": "Jingdong Mall (Beijing S. 3rd Ring Road Branch)",
   "category": "Shopping",
   "subcategory": "Home Appliances",
