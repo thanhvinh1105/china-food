@@ -1,5 +1,19 @@
 [
   {
+  "name": "Shengyongxing (The Bund Branch)",
+  "url": "https://surl.amap.com/2Jsx44vz167EO",
+  "cuisine": "Roast Duck Restaurant",
+  "district": "Huangpu / The Bund, Shanghai",
+  "rating": null,
+  "price": "$$$",
+  "dishes": "peking duck",
+  "must_try": null,
+  "notes": "Address: Guangdong Road No.20, The Bund No.5 Building, East Side. Approx ¥397/person.",
+  "source": "Amap link",
+  "lat": 31.2380,
+  "lng": 121.4900
+},
+  {
     "name": "Siji Minfu Roast Duck Shop (Wangfujing Dong'an Salesroom)",
     "url": "https://uri.amap.com/search?keyword=Siji%20Minfu%20Roast%20Duck%20Shop%20%28Wangfujing%20Dong%27an%20Salesroom%29&city=%E5%8C%97%E4%BA%AC",
     "cuisine": "Roast Duck Restaurant",
