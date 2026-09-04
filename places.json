@@ -1,5 +1,47 @@
 [
   {
+    "name": "Holiland (Uper Brand Mall)",
+    "url": "https://surl.amap.com/2oXQtzXn1d3M4",
+    "cuisine": "Cake Shop",
+    "district": "Pudong, Shanghai",
+    "rating": null,
+    "price": "$",
+    "dishes": "space bakery aesthetic",
+    "must_try": null,
+    "notes": "Address: Zhengda Square, No.168 Lujiazui West Road, 3F, Units 3F41/3F42.",
+    "source": "Amap link",
+    "lat": 31.2380,
+    "lng": 121.4990
+  },
+  {
+    "name": "CUBIC3 San Lifang Coffee (Ocean Mansion Branch)",
+    "url": "https://surl.amap.com/dwOCmuib1xC",
+    "cuisine": "Coffee",
+    "district": "Huangpu, Shanghai",
+    "rating": null,
+    "price": "$",
+    "dishes": "dirty coffee",
+    "must_try": null,
+    "notes": "Address: Nanjing East Road Residential District, F1 Ocean Mansion, No.550 Yan'an East Road, Room 101. Approx ¥12/person.",
+    "source": "Amap link",
+    "lat": 31.2350,
+    "lng": 121.4820
+  },
+  {
+    "name": "FatFaceCoffee (M-Town Shop)",
+    "url": "https://surl.amap.com/617idqOkfFG",
+    "cuisine": "Coffee",
+    "district": "Huangpu, Shanghai",
+    "rating": null,
+    "price": "$",
+    "dishes": null,
+    "must_try": null,
+    "notes": "Address: Nanchang Road No.340 (near Shaanxi South Road Subway Station Exit 4, 230m pedestrian walk). Approx ¥50/person.",
+    "source": "Amap link",
+    "lat": 31.2160,
+    "lng": 121.4570
+  },
+  {
     "name": "Wuyouxian",
     "url": "https://surl.amap.com/7fOW7HY9oX",
     "cuisine": "Snacks and Fast Food",
