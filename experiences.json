@@ -1,5 +1,44 @@
 [
   {
+    "name": "AromeManpo Fuyu Manpu (Shanghai Donghu Road Flagship Store)",
+    "category": "Shopping",
+    "subcategory": "Cosmetics",
+    "tagline": "",
+    "district": "Xuhui, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Donghu Road No.30, Xuhui, Shanghai.",
+    "url": "https://surl.amap.com/9h7gRSK1m0tb",
+    "lat": 31.2115,
+    "lng": 121.4530
+  },
+  {
+    "name": "chillmore Qieyou (Shanghai Baoqing Road Branch)",
+    "category": "Shopping",
+    "subcategory": "Shopping",
+    "tagline": "",
+    "district": "Xuhui, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Baoqing Road No.21 (near Changshu Road Subway Station Exit 4, 400m pedestrian walk).",
+    "url": "https://surl.amap.com/1affetMxgyr",
+    "lat": 31.2100,
+    "lng": 121.4460
+  },
+  {
+    "name": "EarthGlow (Panlong World Branch)",
+    "category": "Shopping",
+    "subcategory": "Cosmetics",
+    "tagline": "",
+    "district": "Qingpu, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Xujing Town, Panlong Road, Lane 123, No.1, Room SZ133 (Panlong World / 蟠龙天地). Coordinates approximate — Xujing/Panlong area in Qingpu district.",
+    "url": "https://surl.amap.com/1ajpzEi1h69W",
+    "lat": 31.1970,
+    "lng": 121.2980
+  },
+  {
   "name": "Yandai Byway",
   "category": "Activities & Culture",
   "subcategory": "Characteristic Commercial Street",
