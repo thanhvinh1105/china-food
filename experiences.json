@@ -1,5 +1,57 @@
 [
   {
+    "name": "Summer Palace",
+    "category": "Activities & Culture",
+    "subcategory": "5A Scenic Area",
+    "tagline": "",
+    "district": "Haidian, Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Address: No.19, New Jiangongmen Road, Haidian, Beijing.",
+    "url": "https://surl.amap.com/34IWYNoJd1l4",
+    "lat": 39.9999,
+    "lng": 116.2755
+  },
+  {
+    "name": "The Lama Temple",
+    "category": "Activities & Culture",
+    "subcategory": "Cultural Relics and Historic Sites",
+    "tagline": "",
+    "district": "Dongcheng, Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Address: No.28, Yonghegong Street (near The Lama Temple Subway Station Southeast Exit F, 250m pedestrian walk).",
+    "url": "https://surl.amap.com/4cVN9tH3107AK",
+    "lat": 39.9475,
+    "lng": 116.4108
+  },
+  {
+    "name": "The Imperial College",
+    "category": "Activities & Culture",
+    "subcategory": "4A Scenic Area",
+    "tagline": "",
+    "district": "Dongcheng, Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Address: No.13-15, Guozijian Street, Dongcheng, Beijing.",
+    "url": "https://surl.amap.com/35SVDc110rl",
+    "lat": 39.9450,
+    "lng": 116.4090
+  },
+  {
+    "name": "Shichahai",
+    "category": "Activities & Culture",
+    "subcategory": "Scenic Area",
+    "tagline": "",
+    "district": "Xicheng, Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Di'anmen West Street No.49, Xicheng, Beijing.",
+    "url": "https://surl.amap.com/32P5Xu41r0sp",
+    "lat": 39.9400,
+    "lng": 116.3830
+  },
+  {
     "name": "AromeManpo Fuyu Manpu (Shanghai Donghu Road Flagship Store)",
     "category": "Shopping",
     "subcategory": "Cosmetics",
