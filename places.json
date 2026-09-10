@@ -1,5 +1,47 @@
 [
   {
+    "name": "PLUSONE Coffee (Huaihai Middle Road Branch)",
+    "url": "https://surl.amap.com/lsZn9GqggUI",
+    "cuisine": "Coffee",
+    "district": "Xuhui, Shanghai",
+    "rating": null,
+    "price": "$",
+    "dishes": null,
+    "must_try": null,
+    "notes": "Address: No.1008 Huaihai Middle Road, 1F (near Shaanxi South Road Subway Station Exit 10, 150m pedestrian walk). Approx ¥47/person.",
+    "source": "Amap link",
+    "lat": 31.2140,
+    "lng": 121.4560
+  },
+  {
+    "name": "Wuming Cafe (Zhonghe Apartment Shop)",
+    "url": "https://surl.amap.com/9g7wWqKpcXQ",
+    "cuisine": "Coffee",
+    "district": "Huangpu, Shanghai",
+    "rating": null,
+    "price": "$",
+    "dishes": null,
+    "must_try": null,
+    "notes": "Address: Nanchang Road and Maoming South Road intersection, 60m southwest. Approx ¥45/person.",
+    "source": "Amap link",
+    "lat": 31.2200,
+    "lng": 121.4700
+  },
+  {
+    "name": "CCLAB Coffee",
+    "url": "https://surl.amap.com/6wfmv2S44e1",
+    "cuisine": "Coffee",
+    "district": "Xuhui, Shanghai",
+    "rating": null,
+    "price": "$",
+    "dishes": null,
+    "must_try": null,
+    "notes": "Address: Wulumuqi Middle Road, Lane 276, No.106, Xuhui, Shanghai. Approx ¥57/person.",
+    "source": "Amap link",
+    "lat": 31.2110,
+    "lng": 121.4440
+  },
+  {
   "name": "Blue Bottle Coffee (Yutong Branch)",
   "url": "https://surl.amap.com/IYUD2OfeEz",
   "cuisine": "Coffee",
