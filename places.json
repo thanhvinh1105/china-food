@@ -1,4 +1,47 @@
 [
+  [
+  {
+    "name": "Shengyongxing Roast Duck Shop (Sanlitun Branch)",
+    "url": "https://surl.amap.com/5re6hG8x39OY",
+    "cuisine": "Roast Duck",
+    "district": "Chaoyang, Beijing",
+    "rating": null,
+    "price": "$$$",
+    "dishes": "Peking duck",
+    "must_try": null,
+    "notes": "Address: Xindong Road, Building A5, Chaoyang, Beijing (Sanlitun area). Approx ¥446/person. Third Shengyongxing branch now saved — you also have Wanhe Mansion and The Bund branches.",
+    "source": "Amap link",
+    "lat": 39.9370,
+    "lng": 116.4530
+  },
+  {
+    "name": "Mansion Haitang HAITANG (Wangfu Zhonghuan West Block Shop)",
+    "url": "https://surl.amap.com/1itLFo20Cs",
+    "cuisine": "Chinese Food",
+    "district": "Dongcheng, Beijing",
+    "rating": null,
+    "price": "$$",
+    "dishes": "Peking duck",
+    "must_try": null,
+    "notes": "Address: WF Central, No.269 Wangfujing Street, West Block Building 3, Unit 306. Approx ¥317/person.",
+    "source": "Amap link",
+    "lat": 39.9139,
+    "lng": 116.4123
+  },
+  {
+    "name": "Government TIDU Roast Duck Beijing Food (Qianmen Chuangshi Shop)",
+    "url": "https://surl.amap.com/eH3NEtAd3qR",
+    "cuisine": "Beijing Cuisine",
+    "district": "Dongcheng, Beijing",
+    "rating": null,
+    "price": "$$",
+    "dishes": "Peking duck",
+    "must_try": null,
+    "notes": "Address: Fanglangfang 1st Alley No.21, Courtyard Building W9, Floor 4, Unit 01 (near Qianmen). Approx ¥181/person.",
+    "source": "Amap link",
+    "lat": 39.8990,
+    "lng": 116.3940
+  },
   {
     "name": "Fuhaihui (Beijing Longfu Temple Nanfang)",
     "url": "https://surl.amap.com/2hEjkQC1oaE6",
