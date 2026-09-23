@@ -13,18 +13,18 @@
   "lng": 121.4430
 },
 {
-  "name": "ATELIER 3.0",
-  "url": "https://surl.amap.com/gzbgVom1u7hF",
+  "name": "Alimentari (Anfu Road Branch)",
+  "url": "https://surl.amap.com/3UIKIhWV1ffQ5",
   "cuisine": "Western Cuisine",
-  "district": "Jing'an, Shanghai",
+  "district": "Changning, Shanghai",
   "rating": null,
-  "price": "$$$",
+  "price": "$$",
   "dishes": null,
   "must_try": null,
-  "notes": "Address: No.291 Fumin Road, Room A109. Approx ¥276/person.",
+  "notes": "Address: Anfu Road No.158-160, Changning, Shanghai.",
   "source": "Amap link",
-  "lat": 31.2170,
-  "lng": 121.4480
+  "lat": 31.2130,
+  "lng": 121.4310
 },
 {
   "name": "ATELIER 3.0",
