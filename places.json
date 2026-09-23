@@ -1,5 +1,46 @@
 [
   {
+  "name": "Junto",
+  "category": "Nightlife",
+  "subcategory": "Beer House",
+  "tagline": "",
+  "district": "Jing'an, Shanghai",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Yanping Road No.58, Jing'an, Shanghai.",
+  "url": "https://surl.amap.com/dBQZxeO1qcGu",
+  "lat": 31.2280,
+  "lng": 121.4430
+},
+{
+  "name": "ATELIER 3.0",
+  "url": "https://surl.amap.com/gzbgVom1u7hF",
+  "cuisine": "Western Cuisine",
+  "district": "Jing'an, Shanghai",
+  "rating": null,
+  "price": "$$$",
+  "dishes": null,
+  "must_try": null,
+  "notes": "Address: No.291 Fumin Road, Room A109. Approx ¥276/person.",
+  "source": "Amap link",
+  "lat": 31.2170,
+  "lng": 121.4480
+},
+{
+  "name": "ATELIER 3.0",
+  "url": "https://surl.amap.com/gzbgVom1u7hF",
+  "cuisine": "Western Cuisine",
+  "district": "Jing'an, Shanghai",
+  "rating": null,
+  "price": "$$$",
+  "dishes": null,
+  "must_try": null,
+  "notes": "Address: No.291 Fumin Road, Room A109. Approx ¥276/person.",
+  "source": "Amap link",
+  "lat": 31.2170,
+  "lng": 121.4480
+},
+  {
   "name": "Jindingxuan (Fangzhuang Temple of Heaven Branch)",
   "url": "https://surl.amap.com/4yLdpAdabf",
   "cuisine": "Cantonese Cuisine",
