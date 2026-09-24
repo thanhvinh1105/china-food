@@ -1,5 +1,47 @@
 [
   {
+    "name": "Bistro 11",
+    "url": "https://surl.amap.com/a9dHKW61ecBl",
+    "cuisine": "Western Cuisine",
+    "district": "Jing'an, Shanghai",
+    "rating": null,
+    "price": "$$",
+    "dishes": null,
+    "must_try": null,
+    "notes": "Address: Fumin Road No.179, Building 1 (near Jing'ansi Subway Station Exit 8, 380m pedestrian walk). Approx ¥153/person.",
+    "source": "Amap link",
+    "lat": 31.2170,
+    "lng": 121.4480
+  },
+  {
+    "name": "Yeguo And Shan Jiao Guizhou Cuisine Bistro",
+    "url": "https://surl.amap.com/2jFIl8mr9KF",
+    "cuisine": "Guizhou Cuisine",
+    "district": "Jing'an, Shanghai",
+    "rating": null,
+    "price": "$$",
+    "dishes": null,
+    "must_try": null,
+    "notes": "Address: Fumin Road No.177 (near Jing'ansi Subway Station Exit 8, 370m pedestrian walk). Approx ¥108/person.",
+    "source": "Amap link",
+    "lat": 31.2170,
+    "lng": 121.4480
+  },
+  {
+    "name": "San Shop Taiwan Heijin Braised Pork Fan",
+    "url": "https://surl.amap.com/1vINXJ892cN",
+    "cuisine": "Taiwanese Snacks",
+    "district": "Jing'an, Shanghai",
+    "rating": null,
+    "price": "$",
+    "dishes": null,
+    "must_try": null,
+    "notes": "Address: Fumin Road No.142 (Fuminxincun northeast entrance). Approx ¥44/person.",
+    "source": "Amap link",
+    "lat": 31.2175,
+    "lng": 121.4485
+  },
+  {
   "name": "Junto",
   "category": "Nightlife",
   "subcategory": "Beer House",
