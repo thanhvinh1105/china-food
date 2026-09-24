@@ -1,5 +1,31 @@
 [
   {
+    "name": "times remake",
+    "category": "Shopping",
+    "subcategory": "Clothing, Shoes & Bags",
+    "tagline": "",
+    "district": "Jing'an, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Fumin Road No.271, inside Baoluo Garden.",
+    "url": "https://surl.amap.com/1RSxkt0D6Vp",
+    "lat": 31.2170,
+    "lng": 121.4480
+  },
+  {
+    "name": "Baoluo Garden",
+    "category": "Activities & Culture",
+    "subcategory": "Historic Residential Lane",
+    "tagline": "",
+    "district": "Jing'an, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Fumin Road 271, near Changle Road, Jing'an, Shanghai. Listed as a residential area on Amap — likely a historic lane/lilong now home to boutiques like 'times remake' rather than a standalone attraction. Worth confirming what's inside before making a special trip.",
+    "url": "https://surl.amap.com/cmVIJqCI73I",
+    "lat": 31.2170,
+    "lng": 121.4480
+  },
+  {
     "name": "Summer Palace",
     "category": "Activities & Culture",
     "subcategory": "5A Scenic Area",
