@@ -1,5 +1,44 @@
 [
   {
+    "name": "Perfumer H Shanghai Flagship Store",
+    "category": "Shopping",
+    "subcategory": "Perfume",
+    "tagline": "",
+    "district": "Jing'an, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Julu Road, Lane 845, No.5 (near Jing'ansi Subway Station Exit 8, 410m pedestrian walk).",
+    "url": "https://surl.amap.com/glcRWJQ146SK",
+    "lat": 31.2160,
+    "lng": 121.4460
+  },
+  {
+    "name": "Zhaimen LAPORTE",
+    "category": "Shopping",
+    "subcategory": "Perfume",
+    "tagline": "",
+    "district": "Xuhui, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Huating Road No.13 (near Changshu Road Subway Station Exit 8, 320m pedestrian walk).",
+    "url": "https://surl.amap.com/1XHF72qx7r6",
+    "lat": 31.2100,
+    "lng": 121.4470
+  },
+  {
+    "name": "Qiju (Fumin Road Branch)",
+    "category": "Shopping",
+    "subcategory": "Cosmetics",
+    "tagline": "",
+    "district": "Jing'an, Shanghai",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Fumin Road No.271 — same Baoluo Garden building as 'times remake' from before.",
+    "url": "https://surl.amap.com/7hbNhxw1y8Ns",
+    "lat": 31.2170,
+    "lng": 121.4480
+  },
+  {
     "name": "times remake",
     "category": "Shopping",
     "subcategory": "Clothing, Shoes & Bags",
