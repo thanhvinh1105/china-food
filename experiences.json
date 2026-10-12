@@ -1,5 +1,18 @@
 [
   {
+  "name": "Lixi Road",
+  "category": "Shopping",
+  "subcategory": "Road",
+  "tagline": "",
+  "district": "Changning, Shanghai",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Lixi Road, Changning, Shanghai. Coordinates approximate — generic Changning district placement, exact street location unconfirmed.",
+  "url": "https://surl.amap.com/2FWvevTs1o4cP",
+  "lat": 31.2050,
+  "lng": 121.4100
+},
+  {
     "name": "Perfumer H Shanghai Flagship Store",
     "category": "Shopping",
     "subcategory": "Perfume",
