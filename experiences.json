@@ -1,5 +1,18 @@
 [
   {
+  "name": "HARMAY Huamei (Shanghai Wukang Road Branch)",
+  "category": "Shopping",
+  "subcategory": "Cosmetics",
+  "tagline": "A beauty and lifestyle store on Shanghai's iconic Wukang Road",
+  "notes": "Browse a curated selection of cosmetics, skincare and beauty products while exploring the historic Wukang Road neighbourhood.",
+  "rating": null,
+  "price": "$$",
+  "district": "Xuhui",
+  "url": "https://surl.amap.com/25JOu7oa4mg",
+  "lat": 31.2095,
+  "lng": 121.4388
+},
+  {
   "name": "HARMAY Huamei (Xintiandi Shanghai South Beili Branch)",
   "category": "Shopping",
   "subcategory": "Cosmetics",
