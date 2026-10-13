@@ -1,5 +1,18 @@
 [
   {
+  "name": "MELT SEASON (Flagship Store)",
+  "category": "Shopping",
+  "subcategory": "Cosmetics",
+  "tagline": "Discover beauty and skincare at a flagship store in Shanghai",
+  "notes": "Visit this beauty store near the intersection of Taiyuan Road and Yongkang Road in Shanghai. A convenient stop to add to a beauty and shopping itinerary.",
+  "rating": null,
+  "price": "$$",
+  "district": "Xuhui",
+  "url": "https://surl.amap.com/4q5wUUJ1Afp0",
+  "lat": 31.2078,
+  "lng": 121.4530
+},
+  {
   "name": "HARMAY Huamei (Shanghai Wukang Road Branch)",
   "category": "Shopping",
   "subcategory": "Cosmetics",
