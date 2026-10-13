@@ -1,5 +1,18 @@
 [
   {
+  "name": "BOSIDENG (Beijing Xidan Flagship Shop)",
+  "category": "Shopping",
+  "subcategory": "Clothing",
+  "tagline": "Explore a flagship store from China's renowned down jacket brand",
+  "notes": "Visit BOSIDENG's Xidan flagship shop for down jackets, winter clothing and outerwear. Located on Xidan North Street, approximately 450 metres from Exit F of Xidan Subway Station.",
+  "rating": null,
+  "price": "$$$",
+  "district": "Xicheng",
+  "url": "https://surl.amap.com/tygD9BITchx",
+  "lat": 39.9145,
+  "lng": 116.3735
+},
+  {
   "name": "MELT SEASON (Flagship Store)",
   "category": "Shopping",
   "subcategory": "Cosmetics",
