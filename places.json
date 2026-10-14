@@ -1,5 +1,18 @@
 [
   {
+  "name": "Baishi Shengnaiyou Workshop (Fengshengli Shop)",
+  "category": "Food & Drink",
+  "subcategory": "Cake Shop",
+  "tagline": "A cake shop tucked inside Shanghai's Fengshengli neighbourhood",
+  "notes": "A dessert stop on Maoming North Road in Jing'an, serving cakes and sweet treats. Listed at approximately ¥94 per person.",
+  "rating": null,
+  "price": "$$",
+  "district": "Jing'an",
+  "url": "https://surl.amap.com/1GryaZgK1t49c",
+  "lat": 31.2312,
+  "lng": 121.4590
+},
+  {
     "name": "Bistro 11",
     "url": "https://surl.amap.com/a9dHKW61ecBl",
     "cuisine": "Western Cuisine",
