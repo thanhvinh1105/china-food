@@ -1,5 +1,19 @@
 [
   {
+  "name": "Dadong (Wangfujing Xiyue Shopping Center Branch)",
+  "url": "https://surl.amap.com/ANMH4q1o7Jc",
+  "cuisine": "Beijing Cuisine",
+  "district": "Dongcheng, Beijing",
+  "rating": null,
+  "price": "$$$",
+  "dishes": null,
+  "must_try": null,
+  "notes": "Address: Wangfujing Street No.301, Xiyue (Gladness) Shopping Centre, Floor 5. Approx ¥321/person.",
+  "source": "Amap link",
+  "lat": 39.9130,
+  "lng": 116.4090
+},
+  {
   "name": "Baishi Shengnaiyou Workshop (Fengshengli Shop)",
   "category": "Food & Drink",
   "subcategory": "Cake Shop",
