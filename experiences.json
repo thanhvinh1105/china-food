@@ -1,5 +1,44 @@
 [
   {
+    "name": "PANE North China Shou Shop",
+    "category": "Shopping",
+    "subcategory": "Shoe Store",
+    "tagline": "",
+    "district": "Chaoyang, Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Sanlitun Road No.19, Sanlitun Taikoo Li South Area, 2F. Same complex as the Sanlitun Taikoo Li entry already saved.",
+    "url": "https://surl.amap.com/1GozCmi1mfsp",
+    "lat": 39.9335,
+    "lng": 116.4481
+  },
+  {
+    "name": "LE LABO (Sanlitun Taikoo Li South Area Shop)",
+    "category": "Shopping",
+    "subcategory": "Perfume",
+    "tagline": "",
+    "district": "Chaoyang, Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Sanlitun Road No.19, Sanlitun Taikoo Li South Area, F L1.",
+    "url": "https://surl.amap.com/F7bK2Hkx0Zh",
+    "lat": 39.9335,
+    "lng": 116.4481
+  },
+  {
+    "name": "BOSIDENG (Sanlitun Dengfeng Concept Branch)",
+    "category": "Shopping",
+    "subcategory": "Clothing Store",
+    "tagline": "",
+    "district": "Chaoyang, Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Sanlitun Taikoo Li South Area, North 1 entrance (near Workers' Stadium Subway Station Exit D, 480m pedestrian walk).",
+    "url": "https://surl.amap.com/1NbOnLQX94M",
+    "lat": 39.9335,
+    "lng": 116.4481
+  },
+  {
   "name": "BOSIDENG (Beijing Xidan Flagship Shop)",
   "category": "Shopping",
   "subcategory": "Clothing",
