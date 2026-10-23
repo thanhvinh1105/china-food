@@ -1,5 +1,18 @@
 [
   {
+  "name": "Yuyuan Garden Shopping Mall",
+  "category": "Shopping",
+  "subcategory": "Shopping Mall",
+  "tagline": "",
+  "district": "Huangpu, Shanghai",
+  "price": null,
+  "rating": null,
+  "notes": "Address: Fangbang Middle Road No.265, Huangpu, Shanghai — part of the Yu Garden Bazaar / old town god temple market area, same cluster as 'Shanghai Yuyuan' already saved.",
+  "url": "https://surl.amap.com/1zpuAkUBM2eh",
+  "lat": 31.2270,
+  "lng": 121.4920
+},
+  {
     "name": "PANE North China Shou Shop",
     "category": "Shopping",
     "subcategory": "Shoe Store",
