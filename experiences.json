@@ -1,5 +1,44 @@
 [
   {
+    "name": "Shichahai-Houhai",
+    "category": "Activities & Culture",
+    "subcategory": "Cultural Landscape",
+    "tagline": "",
+    "district": "Xicheng, Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Yangfang Hutong No.A23-3. This is the wider lakeside area. You already have 'Houhai Park' (Nightlife) and 'Shichahai' saved from earlier, so this overlaps with those, and you may want to keep just one or two.",
+    "url": "https://surl.amap.com/i4dVgmS454y",
+    "lat": 39.9400,
+    "lng": 116.3830
+  },
+  {
+    "name": "Benlai BENLAI (Beijing Wangjing The Mixc Branch)",
+    "category": "Shopping",
+    "subcategory": "Sportswear",
+    "tagline": "",
+    "district": "Chaoyang, Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Address: No.16 Guangshun North Street, Wangjing The Mixc, F L1 (near North Gate). Wangjing is in northeast Beijing, well outside the central loop.",
+    "url": "https://surl.amap.com/iJYwmDw13aKk",
+    "lat": 39.9960,
+    "lng": 116.4700
+  },
+  {
+    "name": "Benlai BENLAI (Youtang Shopping Center Branch)",
+    "category": "Shopping",
+    "subcategory": "Clothing, Shoes & Bags",
+    "tagline": "",
+    "district": "Chaoyang, Beijing",
+    "price": null,
+    "rating": null,
+    "notes": "Address: Building 2, Sanfeng Beili, U Town Mall, F1, Unit F1-35. Coordinates approximate, based on the Sanfeng Beili area in east Chaoyang.",
+    "url": "https://surl.amap.com/2N4gJmSFfUY",
+    "lat": 39.9140,
+    "lng": 116.4780
+  },
+  {
   "name": "Yuyuan Garden Shopping Mall",
   "category": "Shopping",
   "subcategory": "Shopping Mall",
